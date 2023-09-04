@@ -7,3 +7,6 @@ I used PyPDF2 library to create list with needed data.
 
 
 Then I assigned tasks to required machines and created files... but no more details here!
+
+
+Thank you for attention.
